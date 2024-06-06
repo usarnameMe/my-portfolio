@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
 import App from './App';
-import Home from "../src/pages/Home"
-import About from '../src/pages/About';
-import Projects from './pages/Projexts';
-import Contact from '../src/pages/Contact';
+import Home from './pages/Home';
+import About from './pages/About';
+import Projects from './pages/Projects';
+import Contact from './pages/Contact';
 
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement!);
@@ -25,4 +25,3 @@ root.render(
     </Router>
   </React.StrictMode>
 );
-

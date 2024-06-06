@@ -1,10 +1,11 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
+import Navbar from './components/Navbar'; 
 
 const App: React.FC = () => {
   return (
     <div>
-      <h1>My Portfolio</h1>
+      <Navbar />
       <Outlet />
     </div>
   );
