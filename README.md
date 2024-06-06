@@ -4,17 +4,12 @@ Welcome to my developer portfolio! This project is a showcase of my skills, proj
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-
-## About the Project
-
-This portfolio is built to present my projects, blog posts, and personal information in an engaging and visually appealing manner. It is a single-page application (SPA) developed using modern web technologies, focusing on providing a seamless user experience and efficient content management.
 
 
 ## Tech Stack
