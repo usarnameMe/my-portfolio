@@ -11,7 +11,6 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(bodyParser.json());
 
-// Import routes
 import routes from './routes';
 app.use('/api', routes);
 
